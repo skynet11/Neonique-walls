@@ -1,10 +1,10 @@
 {
-	"wallpapers": {
-		
-		"category": [
-			{
-				"name": "Neonique"
-				"wallpaper":[
+    "wallpapers": {
+	
+        "category": [
+            {
+                "name": "Ergon",
+                "wallpaper":[
 					{
 						"author": "Customworx",
 						"url": "https://raw.githubusercontent.com/skynet11/Neonique-walls/master/Wallpapers/customworx1.jpg",
