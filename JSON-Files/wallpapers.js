@@ -1,14 +1,14 @@
 {
 	"wallpapers": {
 		
-		"category":[
+		"category": [
 			{
 				"name": "Neonique"
 				"wallpaper":[
 					{
 						"author": "Customworx",
 						"url": "https://raw.githubusercontent.com/skynet11/Neonique-walls/master/Wallpapers/customworx1.jpg",
-						"thumbUrl": https://raw.githubusercontent.com/skynet11/Neonique-walls/master/Wallpapers/customworx1-thumb.jpg",
+						"thumbUrl": "https://raw.githubusercontent.com/skynet11/Neonique-walls/master/Wallpapers/customworx1-thumb.jpg",
 						"name": "Customworx1"
 					},
 					{
