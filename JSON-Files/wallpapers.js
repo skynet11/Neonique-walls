@@ -160,7 +160,7 @@
 						"url": "https://raw.githubusercontent.com/skynet11/Neonique-walls/master/Wallpapers/scenic8.jpg",
 						"thumbUrl": "https://raw.githubusercontent.com/skynet11/Neonique-walls/master/Wallpapers/scenic8-thumb.jpg",
 						"name": "scenic8"
-	
+					}
 				]
               }              
         ]
