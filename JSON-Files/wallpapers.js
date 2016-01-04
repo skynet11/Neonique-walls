@@ -115,6 +115,54 @@
 					},
 					{
 						"author": "Jeff McIntire",
+						"url": "https://raw.githubusercontent.com/skynet11/Neonique-walls/master/Wallpapers/deepsea1.jpg",
+						"thumbUrl": "https://raw.githubusercontent.com/skynet11/Neonique-walls/master/Wallpapers/deepsea1-thumb.jpg",
+						"name": "deepsea1"
+					},
+					{
+						"author": "Jeff McIntire",
+						"url": "https://raw.githubusercontent.com/skynet11/Neonique-walls/master/Wallpapers/deepsea2.jpg",
+						"thumbUrl": "https://raw.githubusercontent.com/skynet11/Neonique-walls/master/Wallpapers/deepsea2-thumb.jpg",
+						"name": "deepsea2"
+					},
+					{
+						"author": "Jeff McIntire",
+						"url": "https://raw.githubusercontent.com/skynet11/Neonique-walls/master/Wallpapers/deepsea3.jpg",
+						"thumbUrl": "https://raw.githubusercontent.com/skynet11/Neonique-walls/master/Wallpapers/deepsea3-thumb.jpg",
+						"name": "deepsea3"
+					},
+					{
+						"author": "Jeff McIntire",
+						"url": "https://raw.githubusercontent.com/skynet11/Neonique-walls/master/Wallpapers/deepsea4.jpg",
+						"thumbUrl": "https://raw.githubusercontent.com/skynet11/Neonique-walls/master/Wallpapers/deepsea4-thumb.jpg",
+						"name": "deepsea4"
+					},
+					{
+						"author": "Jeff McIntire",
+						"url": "https://raw.githubusercontent.com/skynet11/Neonique-walls/master/Wallpapers/nebula4.jpg",
+						"thumbUrl": "https://raw.githubusercontent.com/skynet11/Neonique-walls/master/Wallpapers/nebula4-thumb.jpg",
+						"name": "nebula4"
+					},
+					{
+						"author": "Jeff McIntire",
+						"url": "https://raw.githubusercontent.com/skynet11/Neonique-walls/master/Wallpapers/nebula4.jpg",
+						"thumbUrl": "https://raw.githubusercontent.com/skynet11/Neonique-walls/master/Wallpapers/nebula4-thumb.jpg",
+						"name": "nebula4"
+					},
+					{
+						"author": "Jeff McIntire",
+						"url": "https://raw.githubusercontent.com/skynet11/Neonique-walls/master/Wallpapers/nebula4.jpg",
+						"thumbUrl": "https://raw.githubusercontent.com/skynet11/Neonique-walls/master/Wallpapers/nebula4-thumb.jpg",
+						"name": "nebula4"
+					},
+					{
+						"author": "Jeff McIntire",
+						"url": "https://raw.githubusercontent.com/skynet11/Neonique-walls/master/Wallpapers/nebula4.jpg",
+						"thumbUrl": "https://raw.githubusercontent.com/skynet11/Neonique-walls/master/Wallpapers/nebula4-thumb.jpg",
+						"name": "nebula4"
+					},
+					{
+						"author": "Jeff McIntire",
 						"url": "https://raw.githubusercontent.com/skynet11/Neonique-walls/master/Wallpapers/scenic1.jpg",
 						"thumbUrl": "https://raw.githubusercontent.com/skynet11/Neonique-walls/master/Wallpapers/scenic1-thumb.jpg",
 						"name": "scenic1"
