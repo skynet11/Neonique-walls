@@ -139,6 +139,42 @@
 					},
 					{
 						"author": "Jeff McIntire",
+						"url": "https://raw.githubusercontent.com/skynet11/Neonique-walls/master/Wallpapers/material1.jpg",
+						"thumbUrl": "https://raw.githubusercontent.com/skynet11/Neonique-walls/master/Wallpapers/material1-thumb.jpg",
+						"name": "material1"
+					},
+					{
+						"author": "Jeff McIntire",
+						"url": "https://raw.githubusercontent.com/skynet11/Neonique-walls/master/Wallpapers/material2.jpg",
+						"thumbUrl": "https://raw.githubusercontent.com/skynet11/Neonique-walls/master/Wallpapers/material2-thumb.jpg",
+						"name": "material2"
+					},
+					{
+						"author": "Jeff McIntire",
+						"url": "https://raw.githubusercontent.com/skynet11/Neonique-walls/master/Wallpapers/material3.jpg",
+						"thumbUrl": "https://raw.githubusercontent.com/skynet11/Neonique-walls/master/Wallpapers/material3-thumb.jpg",
+						"name": "material3"
+					},
+					{
+						"author": "Jeff McIntire",
+						"url": "https://raw.githubusercontent.com/skynet11/Neonique-walls/master/Wallpapers/material4.jpg",
+						"thumbUrl": "https://raw.githubusercontent.com/skynet11/Neonique-walls/master/Wallpapers/material4-thumb.jpg",
+						"name": "material4"
+					},
+					{
+						"author": "Jeff McIntire",
+						"url": "https://raw.githubusercontent.com/skynet11/Neonique-walls/master/Wallpapers/material5.jpg",
+						"thumbUrl": "https://raw.githubusercontent.com/skynet11/Neonique-walls/master/Wallpapers/material5-thumb.jpg",
+						"name": "material5"
+					},
+					{
+						"author": "Jeff McIntire",
+						"url": "https://raw.githubusercontent.com/skynet11/Neonique-walls/master/Wallpapers/material6.jpg",
+						"thumbUrl": "https://raw.githubusercontent.com/skynet11/Neonique-walls/master/Wallpapers/material6-thumb.jpg",
+						"name": "material6"
+					},					
+					{
+						"author": "Jeff McIntire",
 						"url": "https://raw.githubusercontent.com/skynet11/Neonique-walls/master/Wallpapers/nebula1.jpg",
 						"thumbUrl": "https://raw.githubusercontent.com/skynet11/Neonique-walls/master/Wallpapers/nebula1-thumb.jpg",
 						"name": "nebula1"
