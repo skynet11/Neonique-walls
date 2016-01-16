@@ -244,7 +244,91 @@
 						"url": "https://raw.githubusercontent.com/skynet11/Neonique-walls/master/Wallpapers/scenic8.jpg",
 						"thumbUrl": "https://raw.githubusercontent.com/skynet11/Neonique-walls/master/Wallpapers/scenic8-thumb.jpg",
 						"name": "scenic8"
-					}
+					},
+										{
+						"author": "Jeff McIntire",
+						"url": "https://raw.githubusercontent.com/skynet11/Neonique-walls/master/Wallpapers/neoniqueblue.jpg",
+						"thumbUrl": "https://raw.githubusercontent.com/skynet11/Neonique-walls/master/Wallpapers/neoniqueblue-thumb.jpg",
+						"name": "neoniqueblue"
+					},
+					{
+						"author": "Jeff McIntire",
+						"url": "https://raw.githubusercontent.com/skynet11/Neonique-walls/master/Wallpapers/neoniquegreen.jpg",
+						"thumbUrl": "https://raw.githubusercontent.com/skynet11/Neonique-walls/master/Wallpapers/neoniquegreen-thumb.jpg",
+						"name": "neoniquegreen"
+					},
+					{
+						"author": "Jeff McIntire",
+						"url": "https://raw.githubusercontent.com/skynet11/Neonique-walls/master/Wallpapers/neoniqueorange.jpg",
+						"thumbUrl": "https://raw.githubusercontent.com/skynet11/Neonique-walls/master/Wallpapers/neoniqueorange-thumb.jpg",
+						"name": "neoniqueorange"
+					},
+					{
+						"author": "Jeff McIntire",
+						"url": "https://raw.githubusercontent.com/skynet11/Neonique-walls/master/Wallpapers/neoniquepurple.jpg",
+						"thumbUrl": "https://raw.githubusercontent.com/skynet11/Neonique-walls/master/Wallpapers/neoniquepurple-thumb.jpg",
+						"name": "neoniquepurple"
+					},
+					{
+						"author": "Jeff McIntire",
+						"url": "https://raw.githubusercontent.com/skynet11/Neonique-walls/master/Wallpapers/neoniquered.jpg",
+						"thumbUrl": "https://raw.githubusercontent.com/skynet11/Neonique-walls/master/Wallpapers/neoniquered-thumb.jpg",
+						"name": "neoniquepurple"
+					},
+					{
+						"author": "Jeff McIntire",
+						"url": "https://raw.githubusercontent.com/skynet11/Neonique-walls/master/Wallpapers/neoniqueyellow.jpg",
+						"thumbUrl": "https://raw.githubusercontent.com/skynet11/Neonique-walls/master/Wallpapers/neoniqueyellow-thumb.jpg",
+						"name": "neoniqueyellow"
+					},
+					{
+						"author": "Jeff McIntire",
+						"url": "https://raw.githubusercontent.com/skynet11/Neonique-walls/master/Wallpapers/teslablue.jpg",
+						"thumbUrl": "https://raw.githubusercontent.com/skynet11/Neonique-walls/master/Wallpapers/teslablue-thumb.jpg",
+						"name": "teslablue"
+					},
+					{
+						"author": "Jeff McIntire",
+						"url": "https://raw.githubusercontent.com/skynet11/Neonique-walls/master/Wallpapers/teslapurple.jpg",
+						"thumbUrl": "https://raw.githubusercontent.com/skynet11/Neonique-walls/master/Wallpapers/teslapurple-thumb.jpg",
+						"name": "teslapurple"
+					},
+					{
+						"author": "Jeff McIntire",
+						"url": "https://raw.githubusercontent.com/skynet11/Neonique-walls/master/Wallpapers/validusblue.jpg",
+						"thumbUrl": "https://raw.githubusercontent.com/skynet11/Neonique-walls/master/Wallpapers/validusblue-thumb.jpg",
+						"name": "validusblue"
+					},
+					{
+						"author": "Jeff McIntire",
+						"url": "https://raw.githubusercontent.com/skynet11/Neonique-walls/master/Wallpapers/validuspurple.jpg",
+						"thumbUrl": "https://raw.githubusercontent.com/skynet11/Neonique-walls/master/Wallpapers/validuspurple-thumb.jpg",
+						"name": "validuspurple"
+					},
+					{
+						"author": "Jeff McIntire",
+						"url": "https://raw.githubusercontent.com/skynet11/Neonique-walls/master/Wallpapers/tipsyred.jpg",
+						"thumbUrl": "https://raw.githubusercontent.com/skynet11/Neonique-walls/master/Wallpapers/tipsyred-thumb.jpg",
+						"name": "validuspurple"
+					},
+					{
+						"author": "Jeff McIntire",
+						"url": "https://raw.githubusercontent.com/skynet11/Neonique-walls/master/Wallpapers/tipsyyellow.jpg",
+						"thumbUrl": "https://raw.githubusercontent.com/skynet11/Neonique-walls/master/Wallpapers/tipsyyellow-thumb.jpg",
+						"name": "tipsyyellow"
+					},
+					{
+						"author": "Jeff McIntire",
+						"url": "https://raw.githubusercontent.com/skynet11/Neonique-walls/master/Wallpapers/dirtyunicornsblue.jpg",
+						"thumbUrl": "https://raw.githubusercontent.com/skynet11/Neonique-walls/master/Wallpapers/dirtyunicornsblue-thumb.jpg",
+						"name": "dirtyunicornsblue"
+					},
+					{
+						"author": "Jeff McIntire",
+						"url": "https://raw.githubusercontent.com/skynet11/Neonique-walls/master/Wallpapers/dirtyunicornspurple.jpg",
+						"thumbUrl": "https://raw.githubusercontent.com/skynet11/Neonique-walls/master/Wallpapers/dirtyunicornspurple-thumb.jpg",
+						"name": "dirtyunicornspurple"
+					},
 				]
               }              
         ]
