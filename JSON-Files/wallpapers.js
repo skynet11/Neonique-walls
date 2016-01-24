@@ -245,7 +245,7 @@
 						"thumbUrl": "https://raw.githubusercontent.com/skynet11/Neonique-walls/master/Wallpapers/scenic8-thumb.jpg",
 						"name": "scenic8"
 					},
-										{
+					{
 						"author": "Jeff McIntire",
 						"url": "https://raw.githubusercontent.com/skynet11/Neonique-walls/master/Wallpapers/neoniqueblue.jpg",
 						"thumbUrl": "https://raw.githubusercontent.com/skynet11/Neonique-walls/master/Wallpapers/neoniqueblue-thumb.jpg",
@@ -328,7 +328,7 @@
 						"url": "https://raw.githubusercontent.com/skynet11/Neonique-walls/master/Wallpapers/dirtyunicornspurple.jpg",
 						"thumbUrl": "https://raw.githubusercontent.com/skynet11/Neonique-walls/master/Wallpapers/dirtyunicornspurple-thumb.jpg",
 						"name": "dirtyunicornspurple"
-					},
+					}
 				]
               }              
         ]
